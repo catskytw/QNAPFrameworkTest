@@ -1,0 +1,1 @@
+../../QNAPFramework/QNAPFramework/MyCloud/QNMyCloudMapping.h

@@ -1,0 +1,1 @@
+../../QNAPFramework/QNAPFramework/CommunicationManager/QNAPCommunicationManager.h

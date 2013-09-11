@@ -1,0 +1,1 @@
+../../QNAPFramework/QNAPFramework/Category/NSManagedObjectContext+Extend.h

@@ -1,0 +1,1 @@
+../../QNAPFramework/QNAPFramework/FileStation/FileStationCoreDataObject/QNFileCustomLogo.h

@@ -1,0 +1,1 @@
+../../QNAPFramework/QNAPFramework/SuperClass/XMLReader/RKXMLReaderSerialization.h

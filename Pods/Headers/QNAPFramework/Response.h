@@ -1,0 +1,1 @@
+../../QNAPFramework/QNAPFramework/CoreDataObject/Response.h
